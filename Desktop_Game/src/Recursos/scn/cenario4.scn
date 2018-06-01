@@ -1,0 +1,82 @@
+60
+src\Recursos\tiles\arvore1.png
+src\Recursos\tiles\arvore2.png
+src\Recursos\tiles\arvore3.png
+src\Recursos\tiles\arvore4.png
+src\Recursos\tiles\arvore5.png
+src\Recursos\tiles\arvore6.png
+src\Recursos\tiles\arvore7.png
+src\Recursos\tiles\arvore8.png
+src\Recursos\tiles\arvore9.png
+src\Recursos\tiles\arvore10.png
+src\Recursos\tiles\arvore11.png
+src\Recursos\tiles\arvore12.png
+src\Recursos\tiles\parede2.png
+src\Recursos\tiles\parede5.png
+src\Recursos\tiles\parede3.png
+src\Recursos\tiles\parede1.png
+src\Recursos\tiles\parede4.png
+src\Recursos\tiles\parede6.png
+src\Recursos\tiles\window1.png
+src\Recursos\tiles\janela.png
+src\Recursos\tiles\porta1.png
+src\Recursos\tiles\post.png
+src\Recursos\tiles\post1.png
+src\Recursos\tiles\post2.png
+src\Recursos\tiles\lixo.png
+src\Recursos\tiles\lixo1.png
+src\Recursos\tiles\car1.png
+src\Recursos\tiles\car2.png
+src\Recursos\tiles\car3.png
+src\Recursos\tiles\car4.png
+src\Recursos\tiles\car5.png
+src\Recursos\tiles\car6.png
+src\Recursos\tiles\placa.png
+src\Recursos\tiles\carro1.png
+src\Recursos\tiles\carro2.png
+src\Recursos\tiles\carro3.png
+src\Recursos\tiles\carro4.png
+src\Recursos\tiles\carro5.png
+src\Recursos\tiles\carro6.png
+src\Recursos\tiles\carro7.png
+src\Recursos\tiles\carro8.png
+src\Recursos\tiles\planta 1.png
+src\Recursos\tiles\planta 2.png
+src\Recursos\tiles\policia1.png
+src\Recursos\tiles\policia2.png
+src\Recursos\tiles\policia3.png
+src\Recursos\tiles\policia4.png
+src\Recursos\tiles\policia5.png
+src\Recursos\tiles\policia6.png
+src\Recursos\tiles\policia7.png
+
+
+
+
+
+
+
+
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 01 00 00 00 00 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 01 00 00 01 
+02 03 04 00 00 00 00 00 02 03 04 00 02 03 04 00 02 03 04 00 02 03 04 02 03 
+05 06 07 00 00 00 00 00 05 06 07 00 05 06 07 00 05 06 07 00 05 06 07 05 06
+00 11 22 00 00 00 00 22 00 11 00 22 00 11 00 22 00 11 00 22 00 11 22 00 11
+26 11 23 00 00 00 26 23 42 11 42 23 26 11 42 23 42 11 26 23 42 11 23 42 11 
+25 11 24 00 00 00 25 24 43 11 43 24 25 11 43 24 43 11 25 24 43 11 24 43 11 
+00 12 00 00 00 00 00 00 00 12 00 00 00 12 00 00 00 12 00 00 00 12 00 00 12 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 51
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 51 
+00 01 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 01 00 00 00 01 00 00 01 
+02 03 04 00 02 03 04 00 02 03 04 00 02 03 04 00 02 03 04 00 02 03 04 02 03 
+05 06 07 00 05 06 07 00 05 06 07 00 05 06 07 00 05 06 07 00 05 06 07 05 06
+%
+src/Recursos/cenario/Fundo3.png

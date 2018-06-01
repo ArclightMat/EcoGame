@@ -1,0 +1,98 @@
+70
+src\Recursos\tiles\Asfalto.png
+src\Recursos\tiles\Asfalto1.png
+src\Recursos\tiles\parede2.png
+src\Recursos\tiles\parede5.png
+src\Recursos\tiles\parede3.png
+src\Recursos\tiles\parede1.png
+src\Recursos\tiles\parede4.png
+src\Recursos\tiles\parede6.png
+src\Recursos\tiles\window1.png
+src\Recursos\tiles\janela.png
+src\Recursos\tiles\porta1.png
+src\Recursos\tiles\window2.png
+src\Recursos\tiles\window3.png
+src\Recursos\tiles\window4.png
+src\Recursos\tiles\window5.png
+src\Recursos\tiles\window6.png
+src\Recursos\tiles\carro1.png
+src\Recursos\tiles\carro2.png
+src\Recursos\tiles\carro3.png
+src\Recursos\tiles\carro4.png
+src\Recursos\tiles\carro5.png
+src\Recursos\tiles\carro6.png
+src\Recursos\tiles\carro7.png
+src\Recursos\tiles\carro8.png
+src\Recursos\tiles\policia1.png
+src\Recursos\tiles\policia2.png
+src\Recursos\tiles\policia3.png
+src\Recursos\tiles\policia4.png
+src\Recursos\tiles\policia5.png
+src\Recursos\tiles\policia6.png
+src\Recursos\tiles\policia7.png
+src\Recursos\tiles\ambulancia1.png
+src\Recursos\tiles\ambulancia2.png
+src\Recursos\tiles\ambulancia3.png
+src\Recursos\tiles\ambulancia4.png
+src\Recursos\tiles\ambulancia5.png
+src\Recursos\tiles\ambulancia6.png
+src\Recursos\tiles\ambulancia7.png
+src\Recursos\tiles\ambulancia8.png
+src\Recursos\tiles\car1.png
+src\Recursos\tiles\car2.png
+src\Recursos\tiles\car3.png
+src\Recursos\tiles\car4.png
+src\Recursos\tiles\car5.png
+src\Recursos\tiles\car6.png
+src\Recursos\tiles\lixo.png
+src\Recursos\tiles\lixo1.png
+src\Recursos\tiles\lixo2.png
+src\Recursos\tiles\lixo3.png
+src\Recursos\tiles\lixo4.png
+src\Recursos\tiles\lixo5.png
+src\Recursos\tiles\lixo6.png
+src\Recursos\tiles\lixo7.png
+src\Recursos\tiles\lixo9.png
+src\Recursos\tiles\placa.png
+src\Recursos\tiles\post.png
+src\Recursos\tiles\post1.png
+src\Recursos\tiles\post2.png
+src\Recursos\tiles\caixadagua1.png
+src\Recursos\tiles\caixadagua2.png
+src\Recursos\tiles\bloco.png
+src\Recursos\tiles\janela3.png
+src\Recursos\tiles\janela4.png
+
+
+
+
+47 00 17 24 00 48 49 25 28 00 00 52 32 33 34 35 47 52 53 00 40 41 42 55 00
+
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 06 03 03 03 03 03 07 00 00 00 00 06 03 07 00 00
+00 00 00 00 00 00 00 00 00 04 10 08 10 08 10 05 00 00 00 00 04 10 05 00 00 
+00 06 03 03 03 07 00 00 00 04 08 10 08 10 08 05 03 03 00 00 04 08 05 00 00 
+00 04 08 08 08 05 03 03 00 04 10 08 10 08 10 05 08 10 00 00 04 10 05 00 00 
+00 04 10 08 10 05 08 11 00 04 08 10 08 10 08 05 10 08 00 00 04 08 05 00 00 
+00 04 08 08 08 05 06 03 07 04 10 08 10 08 10 05 08 08 61 00 04 10 05 00 00 
+00 04 10 08 10 05 04 10 05 04 08 10 08 10 08 05 08 11 00 00 04 08 05 00 00 
+00 04 08 08 08 05 04 08 05 04 10 08 10 08 10 05 03 03 03 03 03 03 03 00 00 
+56 04 10 08 10 05 04 10 05 04 08 10 08 10 08 05 08 09 12 12 12 13 08 56 00 
+57 04 08 08 08 05 04 08 05 04 10 08 10 08 10 05 08 14 15 15 15 16 08 57 47 
+58 04 08 11 08 05 04 11 05 04 08 08 08 08 08 05 08 08 08 08 08 08 11 58 46 
+00 55 17 24 00 55 00 25 28 00 55 32 33 34 35 55 00 00 55 40 41 42 55 00 00 
+00 00 18 19 20 00 00 26 29 31 00 36 37 38 39 00 00 00 00 43 44 45 00 00 00 
+00 00 21 22 23 00 00 27 30 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+%
+src/Recursos/cenario/Fundo1.png
